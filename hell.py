@@ -2,4 +2,8 @@ prin
 jjjssss
 g
 i anc asf
-print
+<<<<<<< HEAD
+this is my laptop
+=======
+this is my laptop
+>>>>>>> feature1
