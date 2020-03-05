@@ -1,3 +1,1 @@
-prin
-ssss
-g
+practicing
